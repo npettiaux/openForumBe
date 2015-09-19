@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openForum</title><link href="/" rel="alternate"></link><link href="/feeds/comite.atom.xml" rel="self"></link><id>/</id><updated>2015-09-19T00:00:00+02:00</updated><entry><title>Comité</title><link href="/comite.html" rel="alternate"></link><updated>2015-09-19T00:00:00+02:00</updated><author><name>openForum</name></author><id>tag:,2015-09-19:comite.html</id><summary type="html">&lt;h2&gt;Comité d'organisation (actuel)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Nicolas Pettiaux, École supérieure d'informatique (ESI) et Université libre de Bruxelles (ULB)&lt;/li&gt;
+&lt;li&gt;Yves Poullet, Université de Namur (UNamur)&lt;/li&gt;
+&lt;li&gt;Bernard Rentier, Université de Liège (ULG)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Comité d'organisation (possible et inclusif)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Philippe Cara, (*) Vrije universiteit Brussel (VUB)&lt;/li&gt;
+&lt;li&gt;Yves Deville, Université catholique de Louvain (UCL)&lt;/li&gt;
+&lt;li&gt;Nicolas Pettiaux, École supérieure d'informatique (ESI) et Université libre de Bruxelles (ULB)&lt;/li&gt;
+&lt;li&gt;Yves Poullet, Université de Namur (UNamur)&lt;/li&gt;
+&lt;li&gt;Bernard Rentier, Université de Liège (ULG)&lt;/li&gt;
+&lt;li&gt;Noël Van Herreweghe, (*) Informatie Vlaanderen&lt;/li&gt;
+&lt;li&gt;Inge Van Niewerburgh, (*) Universiteit van Gent (Ugent)&lt;/li&gt;
+&lt;li&gt;Divier Villers, (*) Université de Mons (U Mons)&lt;/li&gt;
+&lt;li&gt;Benoît Michaux Université de Namur (Unamur)&lt;/li&gt;
+&lt;li&gt;Séverine Dussolier (*) SciencesPo Paris&lt;/li&gt;
+&lt;li&gt;Jan Corbet (*) Professor Emeritus from Vrije universiteit Brussel (VUB)&lt;/li&gt;
+&lt;/ul&gt;</summary></entry></feed>
