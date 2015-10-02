@@ -9,9 +9,9 @@ TWITTER_USERNAME = '@OpenForumBe'
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Brussels'
 
-DEFAULT_LANG = u'fr'
+DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -21,7 +21,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Fondation universitaire', 'http://fondationuniversitaire.be/fr/'),)
+LINKS = (('University Foundation', 'http://universityfoundation.be/'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/OpenForumBe'),)
@@ -29,9 +29,9 @@ SOCIAL = (('Twitter', 'http://twitter.com/OpenForumBe'),)
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
-THEME = 'blueidea'
+#THEME = 'blueidea'
 
 # Social widget
 SOCIAL
