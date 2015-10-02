@@ -2,18 +2,22 @@ Title: Contact
 Date: 2015-09-19
 Category: Contact
 
-Information complémentaire par courrier électronique à <info@openforum.be> et par courrier à Open Forum, c/o Fondation Universitaire, Rue d'Egmont 11 à 1000 Bruxelles.
 
-## Liste informative
+##Information and registration on this site [http://openforum.be](http://openforum.be/)
 
-Les personnes souhaitant être tenus au courant peuvent s'inscrire à la liste de distribution à petit volume (1 à 2 courriers par mois) OpenForumInfo@openforum.be à l'adresse : <https://listes.domainepublic.net/admin/openforuminfo>
+##Information list
 
-## Liste de discussion
+Those interested can register to the distribution list (small volume max 1-2 mails per month) 
+[OpenForumInfo@openforum.be](mailto:OpenForumInfo@openforum.be) on
+[https://listes.domainepublic.net/listinfo/openforuminfo](https://listes.domainepublic.net/listinfo/openforuminfo)
 
-Les personnes souhaitant discuter avec les autres participants peuvent s'inscrire à la liste de discussion discussOF@openforum.be à l'adresse : <https://listes.domainepublic.net/admin/discussof>
+#Discussion list
+People wishing to talk with the other participants can register to the [discussof@openforum.be](mailto:discussof@openforum.be) mailing list on
+[https://listes.domainepublic.net/listinfo/discussof](https://listes.domainepublic.net/listinfo/discussof)
+
+Additional information by e-mail and by mail to [info@openforum.be](mailto:info@openforum.be)
+
 
 ##Coordination
 
-Nicolas Pettiaux  
-<npettiaux@openforum.be>  
-0032 496 24 55 01
+Nicolas Pettiaux [npettiaux@openforum.be](mailto:npettiaux@openforum.be), portable : +32 496 24 55 01
