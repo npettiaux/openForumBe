@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>openForum</title><link href="http://npettiaux.github.io/openForumBe/" rel="alternate"></link><link href="http://npettiaux.github.io/openForumBe/feeds/program.atom.xml" rel="self"></link><id>http://npettiaux.github.io/openForumBe/</id><updated>2015-09-19T00:00:00+02:00</updated><entry><title>Program 2015-2106</title><link href="http://npettiaux.github.io/openForumBe/program-2015-2106.html" rel="alternate"></link><updated>2015-09-19T00:00:00+02:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-09-19:openForumBe/program-2015-2106.html</id><summary type="html">&lt;h2&gt;Thursday 8 October 2015&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Open Source in healthcare&lt;/strong&gt; by &lt;a href="./SebastienJodogne.md"&gt;Sébastien Jodogne&lt;/a&gt; 
+&lt;p&gt;&lt;strong&gt;Open Source in healthcare&lt;/strong&gt; by &lt;a href="http://npettiaux.github.io/openForumBe/sebastien-jodogne.html"&gt;Sébastien Jodogne&lt;/a&gt; 
  PhD in Computer Science 
 (&lt;a href="http://ulg.ac.be"&gt;ULG&lt;/a&gt;) and hospital IT developper from &lt;a href="http://www.chu.ulg.ac.be/internet/"&gt;CHU de Liège&lt;/a&gt;, 
 developer of the free software &lt;a href="http://www.orthanc-server.com/"&gt;Orthanc&lt;/a&gt;, 
 winner of the &lt;a href="https://www.fsf.org/news/free-software-award-winners"&gt;FSF 2014 Award for Advancement of Free Software&lt;/a&gt;,
 initiator of the &lt;a href="http://osimis.io/"&gt;Osimis&lt;/a&gt; start-up.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Le logiciel libre dans la santé&lt;/em&gt;&lt;/strong&gt; par &lt;a href="./SebastienJodogne"&gt;Sébastien Jodogne&lt;/a&gt;, 
+&lt;p&gt;&lt;strong&gt;Le logiciel libre dans la santé&lt;/strong&gt; par &lt;a href="http://npettiaux.github.io/openForumBe/sebastien-jodogne.html"&gt;Sébastien Jodogne&lt;/a&gt; , 
 docteur en informatique (&lt;a href="http://ulg.ac.be"&gt;ULG&lt;/a&gt;) et informaticien hospitalier au &lt;a href="http://www.chu.ulg.ac.be/internet/"&gt;CHU de Liège&lt;/a&gt;, 
 développeur du logiciel libre &lt;a href="http://www.orthanc-server.com/"&gt;Orthanc&lt;/a&gt;, 
 lauréat du &lt;a href="https://www.fsf.org/news/free-software-award-winners"&gt;prix pour l'avancement du logiciel libre 2014&lt;/a&gt; de la 
@@ -14,7 +14,10 @@ lauréat du &lt;a href="https://www.fsf.org/news/free-software-award-winners"&gt
 &lt;h2&gt;Thursday 12 November 2015&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Open Education&lt;/strong&gt; par Olivier Bonaventure et Yves Deville professeurs d'inforbyique (UCL), développeur du logiciel liber mptcp et conseiller du recteur pour le numérique, auteur du livre liber CNP3 récompensé par Open-textbook award de Saylor foundation.&lt;/p&gt;
 &lt;h2&gt;Thursday 10 December 2015&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Open population data for human and animal health&lt;/strong&gt; par Marius Gilbert &amp;amp; C. Catherine Linard docteur en sciences (ULB), FRNS fellow, Wiener-Anspach Foundation post-doctoral fellow at Oxford University&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Open population data for human and animal health&lt;/strong&gt; par 
+Marius Gilbert &amp;amp; C. Catherine Linard docteur en science(ULB), FRNS fellow, WUniversity&lt;/p&gt;
+&lt;p&gt;Senior Research Associate FNRS (MR) and post-doctoral fellow at ULB &amp;amp;
+lecturer in geography at the University of Namur (CL)&lt;/p&gt;
 &lt;h2&gt;Thursday 14 January 2016&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Open Innovation, also in the banks&lt;/strong&gt; par David Dab (*) docteur en sciences (ULB), Innovation manager (ING), MIT fellow, former McKinsey Finance
 director.&lt;/p&gt;
@@ -26,40 +29,7 @@ director.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Open publications &amp;amp; evaluation of researchers and research&lt;/strong&gt; par Pierre-Louis Lions (*) Professeur au Collège de France, académicien, président du conseil d'administration de l'École normale supérieure (Paris)&lt;/p&gt;
 &lt;h2&gt;Thursday 9 June 2015&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Open Culture&lt;/strong&gt; par Jean-Claude Guédon (*) Professeur à l'Université de Montréal, member de l'Internet Society, auteur du rapport Open Access pour Unesco, conseiller à la Commission européenne.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Programme&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Thursday 12 november : &lt;strong&gt;&lt;em&gt;Open&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;Education&lt;/em&gt;&lt;/strong&gt; par Olivier Bonaventure
-et Yves Deville\
- Professeurs d'informatique (UCL), développeur du logiciel liber mptcp
-(OB), auteur du livre CNP3, Open textbook award from the Saylor
-foundation 2012 (OB) et conseilleur du recteur pour le numérique (YD)&lt;/p&gt;
-&lt;p&gt;Thursday 10 décember : &lt;strong&gt;&lt;em&gt;Open population data for human and animal
-health&lt;/em&gt;&lt;/strong&gt; par Marius Gilbert et Catherine Linard\
- Maître de recherches FNRS (MR) et post-doctoral fellow at ULB &amp;amp; 
-lecturer in geography at the University of Namur (CL)&lt;/p&gt;
-&lt;p&gt;Thursday 14 janvier 2016 : &lt;strong&gt;&lt;em&gt;Open Innovation&lt;/em&gt;&lt;/strong&gt; par David Dab (*)\
- Docteur en sciences (ULB), Innovation manager (ING), MIT post-doctoral
-fellow&lt;/p&gt;
-&lt;p&gt;Thursday 10 mars : &lt;strong&gt;&lt;em&gt;Open Access,&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;why is it important for the
-Society ?&lt;/em&gt;&lt;/strong&gt; par Bernard Rentier\
- Recteur honoraire (ULG), président de OpenScholarship, président
-honoraire du FNRS&lt;/p&gt;
-&lt;p&gt;Thursday 14 avril : &lt;strong&gt;&lt;em&gt;Open Data&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;&amp;amp; copyright reform&lt;/em&gt;&lt;/strong&gt; par Peter
-Murray-Rust\
- Reader Emeritus , University of Cambridge &amp;amp; Shuttleworth Fellow,
-running ContentMine&lt;/p&gt;
-&lt;p&gt;Thursday 12 mai : &lt;strong&gt;&lt;em&gt;Open Publications &amp;amp;&lt;/em&gt;&lt;/strong&gt; *&lt;em&gt;e&lt;strong&gt;&lt;em&gt;*&lt;/em&gt;valuation of
-researchers&lt;/strong&gt;&lt;/em&gt; par Pierre-Louis Lions (*)\
- Professeur au Collège de France, académicien, président du conseil
-d'administration de l'École normale supérieure (Paris)&lt;/p&gt;
-&lt;p&gt;Thursday 9 juin :&lt;strong&gt;&lt;em&gt; Open&lt;/em&gt; &lt;em&gt;Culture&lt;/em&gt; &lt;/strong&gt;** par Jean-Claude Guédon (*)\
- Professeur à l'Université de Montréal, auteur du rapport Open Access
-pour Unesco, conseiller auprès de la Commission européenne&lt;/p&gt;
-&lt;p&gt;\&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Program&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Thursday, December 10: &lt;strong&gt;&lt;em&gt;Open population data for human and animal
-health&lt;/em&gt;&lt;/strong&gt; by Marius Gilbert and Catherine Linard,\
- Senior Research Associate FNRS (MR) and post-doctoral fellow at ULB &amp;amp;
-lecturer in geography at the University of Namur (CL)&lt;/p&gt;
 &lt;p&gt;Thursday, January 14, 2016 : &lt;strong&gt;&lt;em&gt;Open Innovation&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;as seen in a
 bank&lt;/em&gt;&lt;/strong&gt; by David Dab (*)&lt;/p&gt;
 &lt;p&gt;PhD in Sciences (ULB), Innovation manager (ING), MIT postdoctoral fellow&lt;/p&gt;
