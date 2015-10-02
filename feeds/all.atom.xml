@@ -36,13 +36,13 @@
 &lt;p&gt;Tous les seconds jeudis du mois, d'octobre à juin (sauf congés scolaires) de 18h30 à 21h30.&lt;/p&gt;
 &lt;h2&gt;Où ?&lt;/h2&gt;
 &lt;p&gt;À la Fondation Universitaire, &lt;a href="http://www.openstreetmap.org/node/2656942783#map=17/50.83822/4.36697"&gt;11 rue d'Egmont à 1000 Bruxelles&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>Inscription</title><link href="http://npettiaux.github.io/openForumBe/inscription.html" rel="alternate"></link><updated>2015-09-19T00:00:00+02:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-09-19:openForumBe/inscription.html</id><summary type="html">&lt;p&gt;La participation est gratuite mais l'inscription obligatoire à l'adresse&lt;/p&gt;</summary></entry><entry><title>Program 2015-2106</title><link href="http://npettiaux.github.io/openForumBe/program-2015-2106.html" rel="alternate"></link><updated>2015-09-19T00:00:00+02:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-09-19:openForumBe/program-2015-2106.html</id><summary type="html">&lt;h2&gt;Thursday 8 October 2015&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Open Source in healthcare&lt;/strong&gt; by &lt;a href="SebastienJodogne.md"&gt;Sébastien Jodogne&lt;/a&gt;
+&lt;p&gt;&lt;strong&gt;Open Source in healthcare&lt;/strong&gt; by &lt;a href="./SebastienJodogne.md"&gt;Sébastien Jodogne&lt;/a&gt;
  (&lt;a href="http://chu.ulg.ac.be"&gt;CHU ULG&lt;/a&gt;) 
  PhD in Computer Science  (&lt;a href="http://ulg.ac.be"&gt;ULG&lt;/a&gt;) 
 and hospital IT (CHU Liège), developer of
 the free software Orthanc, winner of the Free Software Award 2014,
 initiated the Osimis start-up&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Le logiciel libre dans la santé&lt;/em&gt;&lt;/strong&gt; par &lt;a href="SebastienJodogne"&gt;Sébastien Jodogne&lt;/a&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Le logiciel libre dans la santé&lt;/em&gt;&lt;/strong&gt; par &lt;a href="./SebastienJodogne"&gt;Sébastien Jodogne&lt;/a&gt;
  (&lt;a href="http://chu.ulg.ac.be"&gt;CHU ULG&lt;/a&gt;) 
  Docteur en informatique (ULG) et informaticien hospitalier (CHU de
 Liège), développeur du logiciel libre Orthanc, lauréat du Free Software
@@ -120,12 +120,13 @@ Normale Superieure&lt;/p&gt;
  Professor at the University of Montreal, Open Access report writer for
 Unesco, advisor to the European Commission&lt;/p&gt;</summary></entry><entry><title>Sébastien Jodogne</title><link href="http://npettiaux.github.io/openForumBe/sebastien-jodogne.html" rel="alternate"></link><updated>2015-09-19T00:00:00+02:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-09-19:openForumBe/sebastien-jodogne.html</id><summary type="html">&lt;h2&gt;Biography&lt;/h2&gt;
 &lt;p&gt;Sébastien Jodogne holds a Ph.D. degree in Computer Science from the 
-University of Liège (Belgium). Between 2006 and 2011, he implemented 
+(University of Liège)[http://ulg.ac.be] (Belgium)[http://belgium.be]. 
+Between 2006 and 2011, he implemented 
 high-performance image analysis software for private companies in the 
 fields of machine vision, closed-circuit television, and broadcasting. 
 Since 2011, he has been working as a medical imaging engineer at the 
-University Hospital of Liège, where he develops the free and open-source 
-software Orthanc. His research interests include medical imaging, 
+(University Hospital of Liège)[http://www.chu.ulg.ac.be/], where he develops the free and open-source 
+software &lt;a href="http://www.orthanc-server.com/"&gt;Orthanc&lt;/a&gt;. His research interests include medical imaging, 
 computer vision, machine learning and software engineering. His work was 
 notably acknowledged by the IBM Belgium Award in 2002, by t
 he FSF 2014 Award for Advancement of Free Software, and by the 

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>openForum</title><link href="http://npettiaux.github.io/openForumBe/" rel="alternate"></link><link href="http://npettiaux.github.io/openForumBe/feeds/author.atom.xml" rel="self"></link><id>http://npettiaux.github.io/openForumBe/</id><updated>2015-09-19T00:00:00+02:00</updated><entry><title>Sébastien Jodogne</title><link href="http://npettiaux.github.io/openForumBe/sebastien-jodogne.html" rel="alternate"></link><updated>2015-09-19T00:00:00+02:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-09-19:openForumBe/sebastien-jodogne.html</id><summary type="html">&lt;h2&gt;Biography&lt;/h2&gt;
 &lt;p&gt;Sébastien Jodogne holds a Ph.D. degree in Computer Science from the 
-University of Liège (Belgium). Between 2006 and 2011, he implemented 
+(University of Liège)[http://ulg.ac.be] (Belgium)[http://belgium.be]. 
+Between 2006 and 2011, he implemented 
 high-performance image analysis software for private companies in the 
 fields of machine vision, closed-circuit television, and broadcasting. 
 Since 2011, he has been working as a medical imaging engineer at the 
-University Hospital of Liège, where he develops the free and open-source 
-software Orthanc. His research interests include medical imaging, 
+(University Hospital of Liège)[http://www.chu.ulg.ac.be/], where he develops the free and open-source 
+software &lt;a href="http://www.orthanc-server.com/"&gt;Orthanc&lt;/a&gt;. His research interests include medical imaging, 
 computer vision, machine learning and software engineering. His work was 
 notably acknowledged by the IBM Belgium Award in 2002, by t
 he FSF 2014 Award for Advancement of Free Software, and by the 
