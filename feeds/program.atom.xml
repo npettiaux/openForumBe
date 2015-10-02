@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>openForum</title><link href="http://npettiaux.github.io/openForumBe/" rel="alternate"></link><link href="http://npettiaux.github.io/openForumBe/feeds/program.atom.xml" rel="self"></link><id>http://npettiaux.github.io/openForumBe/</id><updated>2015-09-19T00:00:00+02:00</updated><entry><title>Program 2015-2106</title><link href="http://npettiaux.github.io/openForumBe/program-2015-2106.html" rel="alternate"></link><updated>2015-09-19T00:00:00+02:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-09-19:openForumBe/program-2015-2106.html</id><summary type="html">&lt;h2&gt;Thursday 8 October 2015&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Open Source in healthcare&lt;/strong&gt; by &lt;a href="./SebastienJodogne.md"&gt;Sébastien Jodogne&lt;/a&gt;
- (&lt;a href="http://chu.ulg.ac.be"&gt;CHU ULG&lt;/a&gt;) 
+ (&lt;a href="http://www.chu.ulg.ac.be"&gt;CHU ULG&lt;/a&gt; ) 
  PhD in Computer Science  (&lt;a href="http://ulg.ac.be"&gt;ULG&lt;/a&gt;) 
 and hospital IT (CHU Liège), developer of
 the free software Orthanc, winner of the Free Software Award 2014,
