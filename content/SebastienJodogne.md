@@ -1,6 +1,6 @@
 Title: Sébastien Jodogne
 Date: 2015-09-19
-Category: Speakers
+Category: Speakers, 2015
 
 ##Biography
 
@@ -16,6 +16,8 @@ computer vision, machine learning and software engineering. His work was
 notably acknowledged by the IBM Belgium Award in 2002, by 
 the [FSF 2014 Award for Advancement of Free Software](https://www.fsf.org/news/free-software-award-winners), and by the 
 [Agoria e-Health Award in 2015](http://www.agoria.be/en/Liege-University-Hospital-CHU-Liege-wins-the-Agoria-eHealth-Award-for-a-world-first-in-medical-imaging).
+
+Sébastien Jodogne spoke at [OpenForum](http://openforum.be) on 8 Octobre 2015 on ''Open-source in Healthcare''
 
 ##Content
 

@@ -20,66 +20,49 @@ lauréat du [prix pour l'avancement du logiciel libre 2014](https://www.fsf.org/
 
 ##	Thursday 12 November 2015
 
-**Open Education** par Olivier Bonaventure et Yves Deville professeurs d'inforbyique (UCL), développeur du logiciel liber mptcp et conseiller du recteur pour le numérique, auteur du livre liber CNP3 récompensé par Open-textbook award de Saylor foundation.
+**Open Education : towards open digital learning resources** by
+ [Yves Deville](YvesDeville.md) and [Olivier Bonaventure](OlivierBonaventure.md) from 
+[Université catholique Louvain](http://ucl.ac.be)
 
 ##	Thursday 10 December 2015
 
 **Open population data for human and animal health** par 
-Marius Gilbert & C. Catherine Linard docteur en science(ULB), FRNS fellow, WUniversity
+Marius Gilbert & Catherine Linard cteur en sciencLB)
 
- Senior Research Associate FNRS (MR) and post-doctoral fellow at ULB &
+Senior Research Associate FNRS (MR) and post-doctoral fellow at ULB &
 lecturer in geography at the University of Namur (CL)
 
 ##	Thursday 14 January 2016
 
-**Open Innovation, also in the banks** par David Dab (*) docteur en sciences (ULB), Innovation manager (ING), MIT fellow, former McKinsey Finance
+**Open Innovation, also in the banks** par David Dab, 
+
+PhD in Sciences (ULB), Innovation manager (ING), MIT fellow, former McKinsey Finance
 director.
 
 ##	Thursday 10 March 2015
 
-**Open Access : why so important ?** par Bernard Rentier (*) docteur en sciences (ULG), recteur honoraire (ULG), président de Open Scholarship, président honoraire du FNRS.
+**Open Access : why so important for Society ?** par Bernard Rentier  docteur en sciences (
+
+Honorary Rector (ULG), President of OpenScholarship, Honorary President
+of the FNRS
 
 ##	Thursday 14 April 2015
 
 **Open Data & copyright reform** par Pieter Murray-Rust Reader Emeritus , University of Cambridge, Shuttleworth Fellow.
 
+Reader Emeritus, University of Cambridge Fellow & Shuttleworth, running
+ContentMine
+
 ##	Thursday 12 May 2015
 
 **Open publications & evaluation of researchers and research** par Pierre-Louis Lions (*) Professeur au Collège de France, académicien, président du conseil d'administration de l'École normale supérieure (Paris)
+
+Professor at the Collège de France, academician, Président of the École
+Normale Superieure
 
 ##	Thursday 9 June 2015
 
 **Open Culture** par Jean-Claude Guédon (*) Professeur à l'Université de Montréal, member de l'Internet Society, auteur du rapport Open Access pour Unesco, conseiller à la Commission européenne.
 
-
-
-**Program**
-
-
-
-Thursday, January 14, 2016 : ***Open Innovation*** ***as seen in a
-bank*** by David Dab (\*)
-
-PhD in Sciences (ULB), Innovation manager (ING), MIT postdoctoral fellow
-
-Thursday, March 10: ***Open Access, why is it significant for the
-Society?*** Bernard Rentier
-
-Honorary Rector (ULG), President of OpenScholarship, Honorary President
-of the FNRS
-
-Thursday, April 14: ***Open Data & copyright reform*** by Peter
-Murray-Rust
-
-Reader Emeritus, University of Cambridge Fellow & Shuttleworth, running
-ContentMine
-
-Thursday, May 12 : ***Open Publications & Researchers Evaluation*** by
-Pierre-Louis Lions (\*)
-
-Professor at the Collège de France, academician, Président of the École
-Normale Superieure
-
-Thursday, June 9: ***Open Culture*** by Jean-Claude Guédon (\*)\
- Professor at the University of Montreal, Open Access report writer for
-Unesco, advisor to the European Commission
+Professor at the University of Montreal, Contributor to the Unesco report
+on Open Access, advisor to the European Commission, Member of the Nexa group
