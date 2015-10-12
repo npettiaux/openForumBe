@@ -1,6 +1,6 @@
 Title: Yves Deville
 Date: 2015-10-08
-Category: Speakers, 2015
+Category: Speakers; 2015
 
 ##Biography
 

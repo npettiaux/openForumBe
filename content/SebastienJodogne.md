@@ -1,6 +1,6 @@
 Title: Sébastien Jodogne
 Date: 2015-09-19
-Category: Speakers, 2015
+Category: Speakers; 2015
 
 ##Biography
 
