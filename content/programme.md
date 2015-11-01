@@ -4,7 +4,7 @@ Category: Program
 
 ## Thursday 8 October 2015
 
-**Open Source in healthcare** by [Sébastien Jodogne](http://npettiaux.github.io/openForumBe/sebastien-jodogne.html) 
+**Open Source in healthcare** by [Sébastien Jodogne]({filename}./SebastienJodogne.md) 
  PhD in Computer Science 
 ([ULG](http://ulg.ac.be)) and hospital IT developper from [CHU de Liège](http://www.chu.ulg.ac.be/internet/), 
 developer of the free software [Orthanc](http://www.orthanc-server.com/), 
@@ -12,7 +12,7 @@ winner of the [FSF 2014 Award for Advancement of Free Software](https://www.fsf.
 initiator of the [Osimis](http://osimis.io/) start-up.
 
 
-**Le logiciel libre dans la santé** par [Sébastien Jodogne](http://npettiaux.github.io/openForumBe/sebastien-jodogne.html) , 
+**Le logiciel libre dans la santé** par [Sébastien Jodogne]({filename}./SebastienJodogne.md) , 
 docteur en informatique ([ULG](http://ulg.ac.be)) et informaticien hospitalier au [CHU de Liège](http://www.chu.ulg.ac.be/internet/), 
 développeur du logiciel libre [Orthanc](http://www.orthanc-server.com/), 
 lauréat du [prix pour l'avancement du logiciel libre 2014](https://www.fsf.org/news/free-software-award-winners) de la 
@@ -21,7 +21,7 @@ lauréat du [prix pour l'avancement du logiciel libre 2014](https://www.fsf.org/
 ##	Thursday 12 November 2015
 
 **Open Education : towards open digital learning resources** by
- [Yves Deville](YvesDeville.md) and [Olivier Bonaventure](OlivierBonaventure.md) from 
+ [Yves Deville]({filename}./YvesDeville.md) and [Olivier Bonaventure]({filename}./OlivierBonaventure.md) from 
 [Université catholique Louvain](http://ucl.ac.be)
 
 ##	Thursday 10 December 2015
