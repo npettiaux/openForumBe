@@ -2,27 +2,30 @@ Title: Program 2015-2106
 Date: 2015-09-19
 Category: Program
 
-## Thursday 8 October 2015
-
-**Open Source in healthcare** by [Sébastien Jodogne]({filename}./SebastienJodogne.md) 
- PhD in Computer Science 
-([ULG](http://ulg.ac.be)) and hospital IT developper from [CHU de Liège](http://www.chu.ulg.ac.be/internet/), 
-developer of the free software [Orthanc](http://www.orthanc-server.com/), 
-winner of the [FSF 2014 Award for Advancement of Free Software](https://www.fsf.org/news/free-software-award-winners),
-initiator of the [Osimis](http://osimis.io/) start-up.
-
-
-**Le logiciel libre dans la santé** par [Sébastien Jodogne]({filename}./SebastienJodogne.md) , 
-docteur en informatique ([ULG](http://ulg.ac.be)) et informaticien hospitalier au [CHU de Liège](http://www.chu.ulg.ac.be/internet/), 
-développeur du logiciel libre [Orthanc](http://www.orthanc-server.com/), 
-lauréat du [prix pour l'avancement du logiciel libre 2014](https://www.fsf.org/news/free-software-award-winners) de la 
-[Fondation pour le logiciel libre](http://www.fsf.org), initiateur de la start-up  [Osimis](http://osimis.io/).
-
 ##	Thursday 12 November 2015
 
-**Open Education : towards open digital learning resources** by
- [Yves Deville]({filename}./YvesDeville.md) and [Olivier Bonaventure]({filename}./OlivierBonaventure.md) from 
-[Université catholique Louvain](http://ucl.ac.be)
+###Title
+Open Education:  towards open digital learning resources
+[Yves Deville]({filename}./YvesDeville.md) and [Olivier Bonaventure]({filename}./OlivierBonaventure.md), 
+[Université catholique Louvain](http://uclouvain.be)
+
+####Short abstract
+Open Education introduces, in the field of learning, an open approach 
+with collaboration and knowledge sharing.  In terms of content, 
+Open education proposes to promote the development and use of 
+open educational resources, that is learning materials in a digital 
+format freely distributed to educators, students or any individual 
+around the world. Digital opens the door to new types of educational 
+materials and facilitates dissemination. MOOCs are a possible 
+implementation of the Open Education, but other digital technologies 
+can also be offered.
+
+In the first part of the talk, [Yves Deville]({filename}./YvesDeville.md) 
+will present and discuss Open Education as considered at [Université catholique Louvain](http://uclouvain.be)
+
+In the second part,  [Olivier Bonaventure]({filename}./OlivierBonaventure.md) will present his experience 
+with three open ebooks.  
+
 
 ##	Thursday 10 December 2015
 
@@ -66,3 +69,22 @@ Normale Superieure
 
 Professor at the University of Montreal, Contributor to the Unesco report
 on Open Access, advisor to the European Commission, Member of the Nexa group
+
+#In the past days
+
+## Thursday 8 October 2015
+
+**Open Source in healthcare** by [Sébastien Jodogne]({filename}./SebastienJodogne.md) 
+ PhD in Computer Science 
+([ULG](http://ulg.ac.be)) and hospital IT developper from [CHU de Liège](http://www.chu.ulg.ac.be/internet/), 
+developer of the free software [Orthanc](http://www.orthanc-server.com/), 
+winner of the [FSF 2014 Award for Advancement of Free Software](https://www.fsf.org/news/free-software-award-winners),
+initiator of the [Osimis](http://osimis.io/) start-up.
+
+
+**Le logiciel libre dans la santé** par [Sébastien Jodogne]({filename}./SebastienJodogne.md) , 
+docteur en informatique ([ULG](http://ulg.ac.be)) et informaticien hospitalier au [CHU de Liège](http://www.chu.ulg.ac.be/internet/), 
+développeur du logiciel libre [Orthanc](http://www.orthanc-server.com/), 
+lauréat du [prix pour l'avancement du logiciel libre 2014](https://www.fsf.org/news/free-software-award-winners) de la 
+[Fondation pour le logiciel libre](http://www.fsf.org), initiateur de la start-up  [Osimis](http://osimis.io/).
+

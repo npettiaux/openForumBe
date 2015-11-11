@@ -1,6 +1,6 @@
 Title: Yves Deville
 Date: 2015-10-08
-Category: Speakers; 2015
+Category: Speakers
 
 ##Biography
 
@@ -33,6 +33,6 @@ can also be offered.
 
 The first part of the talk will present and discuss Open Education.
 
-In the second part,  (Olivier Bonaventure)[OlivierBonaventure.md] will present his experience 
+In the second part,  (Olivier Bonaventure)[{filename}./OlivierBonaventure.md] will present his experience 
 with three open ebooks.  
 
