@@ -1,64 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openForum</title><link href="http://npettiaux.github.io/openForumBe/" rel="alternate"></link><link href="http://npettiaux.github.io/openForumBe/feeds/speakers.atom.xml" rel="self"></link><id>http://npettiaux.github.io/openForumBe/</id><updated>2015-09-19T00:00:00+02:00</updated><entry><title>Sébastien Jodogne</title><link href="http://npettiaux.github.io/openForumBe/sebastien-jodogne.html" rel="alternate"></link><updated>2015-09-19T00:00:00+02:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-09-19:openForumBe/sebastien-jodogne.html</id><summary type="html">&lt;h2&gt;Biography&lt;/h2&gt;
-&lt;p&gt;Sébastien Jodogne holds a Ph.D. degree in Computer Science from the 
-&lt;a href="http://ulg.ac.be"&gt;University of Liège&lt;/a&gt; in &lt;a href="http://belgium.be"&gt;Belgium&lt;/a&gt;. 
-Between 2006 and 2011, he implemented 
-high-performance image analysis software for private companies in the 
-fields of machine vision, closed-circuit television, and broadcasting. 
-Since 2011, he has been working as a medical imaging engineer at the 
-&lt;a href="http://www.chu.ulg.ac.be/internet"&gt;University Hospital of Liège&lt;/a&gt;, where he develops the free and open-source 
-software &lt;a href="http://www.orthanc-server.com/"&gt;Orthanc&lt;/a&gt;. His research interests include medical imaging, 
-computer vision, machine learning and software engineering. His work was 
-notably acknowledged by the IBM Belgium Award in 2002, by 
-the &lt;a href="https://www.fsf.org/news/free-software-award-winners"&gt;FSF 2014 Award for Advancement of Free Software&lt;/a&gt;, and by the 
-&lt;a href="http://www.agoria.be/en/Liege-University-Hospital-CHU-Liege-wins-the-Agoria-eHealth-Award-for-a-world-first-in-medical-imaging"&gt;Agoria e-Health Award in 2015&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;Content&lt;/h2&gt;
-&lt;p&gt;The volume of medical images that are generated, analyzed and exchanged 
-by hospitals is dramatically increasing. Multimodal medical imaging is 
-indeed the first step to the treatment of more and more illnesses, such 
-as cancers or cardiovascular diseases. In turn, the data management of 
-clinical images and the administration of the computer network of a 
-medical imaging department imply continuously growing technological 
-challenges. Tasks such as autorouting between imaging modalities, 
-exchanging data between clinical departments or hospitals, or 
-anonymizing images are still hard to achieve in practice.&lt;/p&gt;
-&lt;p&gt;In this talk, I will explain these pains of modern medical imaging, 
-from the perspective of the hospitals. I will then put emphasis on the 
-free and open-source software &lt;a href="http://www.orthanc-server.com/"&gt;Orthanc&lt;/a&gt;, a lightweight, versatile vendor 
-neutral archive. &lt;a href="http://www.orthanc-server.com/"&gt;Orthanc&lt;/a&gt; is conceived as a central, robust building 
-block to bring technological independence to clinical departments, by 
-automating their very specific imaging flows and by creating gateways 
-between proprietary ecosystems.&lt;/p&gt;
-&lt;p&gt;I will conclude by arguing that open standards (such as FHIR and DICOM) 
-and their related free and open-source implementations are essential to 
-promote interoperability in health care. But, interoperability is at a 
-same time a huge opportunity to boost our economical development and to 
-protect the freedoms of hospitals and patients.&lt;/p&gt;
-&lt;h2&gt;Contenu&lt;/h2&gt;
-&lt;p&gt;Au cours des vingt dernières années, l’essor puis la démocratisation 
-des nouvelles technologies d’imagerie médicale ont mené à de profondes 
-révolutions dans la prise en charge clinique de nombreuses pathologies, 
-comme le cancer ou l’insuffisance cardiaque. Le volume sans cesse 
-croissant d’images auquel tout hôpital est actuellement confronté 
-n’est pas sans créer de nombreuses difficultés informatiques : 
-acheminement automatique des images depuis les dispositifs 
-d’acquisition jusque dans les logiciels d’analyse d’images, 
-échanges inter- et extra-hospitaliers, anonymisation des données…&lt;/p&gt;
-&lt;p&gt;Face à ces besoins impérieux de la collectivité et face au manque 
-d’offres commerciales adaptées, le Département de Physique Médicale du 
-&lt;a href="http://www.chu.ulg.ac.be/internet"&gt;CHU de Liège&lt;/a&gt; a décidé de concevoir un produit informatique innovant et 
-de qualité industrielle. Ce logiciel, nommé &lt;a href="http://www.orthanc-server.com/"&gt;Orthanc&lt;/a&gt;, est un serveur 
-d’imagerie médicale léger, robuste et versatile. Orthanc a la particularité 
-d’être un logiciel libre : tous les hôpitaux du monde peuvent donc 
-l’utiliser librement, selon une démarche universitaire, collaborative 
-et ouverte.&lt;/p&gt;
-&lt;p&gt;L’exemple d’&lt;a href="http://www.orthanc-server.com/"&gt;Orthanc&lt;/a&gt; montre que le logiciel libre permet d’amener 
-une meilleure indépendance technologique des services médicaux face 
-à leurs fournisseurs. De manière plus générale, les standards ouverts 
-du domaine de la santé (tels que FHIR et DICOM) et leurs implémentations 
-libres de référence sont des outils essentiels pour créer une 
-interopérabilité maximale entre écosystèmes propriétaires dans le 
-milieu médical, au bénéfice de notre système de soins de santé. En 
-outre, bénéficier d’une telle interopérabilité est une énorme 
-opportunité pour stimuler notre tissu industriel en santé électronique, 
-ainsi que pour garantir les libertés numériques des patients."&lt;/p&gt;</summary></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openForum</title><link href="http://npettiaux.github.io/openForumBe/" rel="alternate"></link><link href="http://npettiaux.github.io/openForumBe/feeds/speakers.atom.xml" rel="self"></link><id>http://npettiaux.github.io/openForumBe/</id><updated>2015-10-08T00:00:00+02:00</updated><entry><title>Yves Deville</title><link href="http://npettiaux.github.io/openForumBe/yves-deville.html" rel="alternate"></link><updated>2015-10-08T00:00:00+02:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-10-08:openForumBe/yves-deville.html</id><summary type="html">&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;p&gt;Yves Deville is full professor at the (École Polytechnique 
+de Louvain (EPL))[http://www.uclouvain.be/epl.html],
+(Université catholique de Louvain (UCL))[http://www.uclouvain.be].&lt;br /&gt;
+He is a member of the ICTEAM research institute and is 
+specialized in computer science.  His research are in artificial 
+intelligence, constraint satisfaction and optimization. He is 
+leading the BeCool Constraint research group.&lt;br /&gt;
+Yves Deville is currently Senior Advisor to the President of 
+UCL for the Digital University.  He is responsible for the development 
+of the implementation of a comprehensive strategy for a digital university.&lt;br /&gt;
+He is also President of the UCL IT Governance Committee.&lt;/p&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Open Education:  towards open digital learning resources
+Yves Deville and Olivier Bonaventure, Université catholique Louvain&lt;/p&gt;
+&lt;h3&gt;Short abstract&lt;/h3&gt;
+&lt;p&gt;Open Education introduces, in the field of learning, an open approach 
+with collaboration and knowledge sharing.  In terms of content, 
+Open education proposes to promote the development and use of 
+open educational resources, that is learning materials in a digital 
+format freely distributed to educators, students or any individual 
+around the world. Digital opens the door to new types of educational 
+materials and facilitates dissemination. MOOCs are a possible 
+implementation of the Open Education, but other digital technologies 
+can also be offered.&lt;/p&gt;
+&lt;p&gt;The first part of the talk will present and discuss Open Education.&lt;/p&gt;
+&lt;p&gt;In the second part,  (Olivier Bonaventure)[{filename}./OlivierBonaventure.md] will present his experience 
+with three open ebooks.  &lt;/p&gt;</summary></entry></feed>

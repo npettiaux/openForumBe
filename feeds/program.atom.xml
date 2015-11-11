@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openForum</title><link href="http://npettiaux.github.io/openForumBe/" rel="alternate"></link><link href="http://npettiaux.github.io/openForumBe/feeds/program.atom.xml" rel="self"></link><id>http://npettiaux.github.io/openForumBe/</id><updated>2015-09-19T00:00:00+02:00</updated><entry><title>Program 2015-2106</title><link href="http://npettiaux.github.io/openForumBe/program-2015-2106.html" rel="alternate"></link><updated>2015-09-19T00:00:00+02:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-09-19:openForumBe/program-2015-2106.html</id><summary type="html">&lt;h2&gt;Thursday 8 October 2015&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Open Source in healthcare&lt;/strong&gt; by &lt;a href="http://npettiaux.github.io/openForumBe/sebastien-jodogne.html"&gt;Sébastien Jodogne&lt;/a&gt; 
- PhD in Computer Science 
-(&lt;a href="http://ulg.ac.be"&gt;ULG&lt;/a&gt;) and hospital IT developper from &lt;a href="http://www.chu.ulg.ac.be/internet/"&gt;CHU de Liège&lt;/a&gt;, 
-developer of the free software &lt;a href="http://www.orthanc-server.com/"&gt;Orthanc&lt;/a&gt;, 
-winner of the &lt;a href="https://www.fsf.org/news/free-software-award-winners"&gt;FSF 2014 Award for Advancement of Free Software&lt;/a&gt;,
-initiator of the &lt;a href="http://osimis.io/"&gt;Osimis&lt;/a&gt; start-up.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Le logiciel libre dans la santé&lt;/strong&gt; par &lt;a href="http://npettiaux.github.io/openForumBe/sebastien-jodogne.html"&gt;Sébastien Jodogne&lt;/a&gt; , 
-docteur en informatique (&lt;a href="http://ulg.ac.be"&gt;ULG&lt;/a&gt;) et informaticien hospitalier au &lt;a href="http://www.chu.ulg.ac.be/internet/"&gt;CHU de Liège&lt;/a&gt;, 
-développeur du logiciel libre &lt;a href="http://www.orthanc-server.com/"&gt;Orthanc&lt;/a&gt;, 
-lauréat du &lt;a href="https://www.fsf.org/news/free-software-award-winners"&gt;prix pour l'avancement du logiciel libre 2014&lt;/a&gt; de la 
-&lt;a href="http://www.fsf.org"&gt;Fondation pour le logiciel libre&lt;/a&gt;, initiateur de la start-up  &lt;a href="http://osimis.io/"&gt;Osimis&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;Thursday 12 November 2015&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Open Education : towards open digital learning resources&lt;/strong&gt; by
- &lt;a href="http://npettiaux.github.io/openForumBe/yves-deville.html"&gt;Yves Deville&lt;/a&gt; and &lt;a href="http://npettiaux.github.io/openForumBe/olivier-bonaventure.html"&gt;Olivier Bonaventure&lt;/a&gt; from 
-&lt;a href="http://ucl.ac.be"&gt;Université catholique Louvain&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openForum</title><link href="http://npettiaux.github.io/openForumBe/" rel="alternate"></link><link href="http://npettiaux.github.io/openForumBe/feeds/program.atom.xml" rel="self"></link><id>http://npettiaux.github.io/openForumBe/</id><updated>2015-09-19T00:00:00+02:00</updated><entry><title>Program 2015-2106</title><link href="http://npettiaux.github.io/openForumBe/program-2015-2106.html" rel="alternate"></link><updated>2015-09-19T00:00:00+02:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-09-19:openForumBe/program-2015-2106.html</id><summary type="html">&lt;h2&gt;Thursday 12 November 2015&lt;/h2&gt;
+&lt;h3&gt;Title&lt;/h3&gt;
+&lt;p&gt;Open Education:  towards open digital learning resources
+&lt;a href="http://npettiaux.github.io/openForumBe/yves-deville.html"&gt;Yves Deville&lt;/a&gt; and &lt;a href="http://npettiaux.github.io/openForumBe/olivier-bonaventure.html"&gt;Olivier Bonaventure&lt;/a&gt;, 
+&lt;a href="http://uclouvain.be"&gt;Université catholique Louvain&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Short abstract&lt;/h4&gt;
+&lt;p&gt;Open Education introduces, in the field of learning, an open approach 
+with collaboration and knowledge sharing.  In terms of content, 
+Open education proposes to promote the development and use of 
+open educational resources, that is learning materials in a digital 
+format freely distributed to educators, students or any individual 
+around the world. Digital opens the door to new types of educational 
+materials and facilitates dissemination. MOOCs are a possible 
+implementation of the Open Education, but other digital technologies 
+can also be offered.&lt;/p&gt;
+&lt;p&gt;In the first part of the talk, &lt;a href="http://npettiaux.github.io/openForumBe/yves-deville.html"&gt;Yves Deville&lt;/a&gt; 
+will present and discuss Open Education as considered at &lt;a href="http://uclouvain.be"&gt;Université catholique Louvain&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In the second part,  &lt;a href="http://npettiaux.github.io/openForumBe/olivier-bonaventure.html"&gt;Olivier Bonaventure&lt;/a&gt; will present his experience 
+with three open ebooks.  &lt;/p&gt;
 &lt;h2&gt;Thursday 10 December 2015&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Open population data for human and animal health&lt;/strong&gt; par 
 Marius Gilbert &amp;amp; Catherine Linard cteur en sciencLB)&lt;/p&gt;
@@ -39,4 +42,17 @@ Normale Superieure&lt;/p&gt;
 &lt;h2&gt;Thursday 9 June 2015&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Open Culture&lt;/strong&gt; par Jean-Claude Guédon (*) Professeur à l'Université de Montréal, member de l'Internet Society, auteur du rapport Open Access pour Unesco, conseiller à la Commission européenne.&lt;/p&gt;
 &lt;p&gt;Professor at the University of Montreal, Contributor to the Unesco report
-on Open Access, advisor to the European Commission, Member of the Nexa group&lt;/p&gt;</summary></entry></feed>
+on Open Access, advisor to the European Commission, Member of the Nexa group&lt;/p&gt;
+&lt;h1&gt;In the past days&lt;/h1&gt;
+&lt;h2&gt;Thursday 8 October 2015&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Open Source in healthcare&lt;/strong&gt; by &lt;a href="http://npettiaux.github.io/openForumBe/sebastien-jodogne.html"&gt;Sébastien Jodogne&lt;/a&gt; 
+ PhD in Computer Science 
+(&lt;a href="http://ulg.ac.be"&gt;ULG&lt;/a&gt;) and hospital IT developper from &lt;a href="http://www.chu.ulg.ac.be/internet/"&gt;CHU de Liège&lt;/a&gt;, 
+developer of the free software &lt;a href="http://www.orthanc-server.com/"&gt;Orthanc&lt;/a&gt;, 
+winner of the &lt;a href="https://www.fsf.org/news/free-software-award-winners"&gt;FSF 2014 Award for Advancement of Free Software&lt;/a&gt;,
+initiator of the &lt;a href="http://osimis.io/"&gt;Osimis&lt;/a&gt; start-up.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Le logiciel libre dans la santé&lt;/strong&gt; par &lt;a href="http://npettiaux.github.io/openForumBe/sebastien-jodogne.html"&gt;Sébastien Jodogne&lt;/a&gt; , 
+docteur en informatique (&lt;a href="http://ulg.ac.be"&gt;ULG&lt;/a&gt;) et informaticien hospitalier au &lt;a href="http://www.chu.ulg.ac.be/internet/"&gt;CHU de Liège&lt;/a&gt;, 
+développeur du logiciel libre &lt;a href="http://www.orthanc-server.com/"&gt;Orthanc&lt;/a&gt;, 
+lauréat du &lt;a href="https://www.fsf.org/news/free-software-award-winners"&gt;prix pour l'avancement du logiciel libre 2014&lt;/a&gt; de la 
+&lt;a href="http://www.fsf.org"&gt;Fondation pour le logiciel libre&lt;/a&gt;, initiateur de la start-up  &lt;a href="http://osimis.io/"&gt;Osimis&lt;/a&gt;.&lt;/p&gt;</summary></entry></feed>
