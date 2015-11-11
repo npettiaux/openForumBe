@@ -1,6 +1,6 @@
 Title: Olivier Bonaventure
 Date: 2015-10-11
-Category: Speakers; 2015
+Category: Speakers
 
 ##Biography
 

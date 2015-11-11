@@ -1,6 +1,6 @@
 Title: Bernard Rentier
 Date: 2015-09-01
-Category: Commitee; 2015
+Category: Commitee
 
 ##Biography 
 

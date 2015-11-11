@@ -1,6 +1,6 @@
 Title: Yves Poullet
 Date: 2015-09-01
-Category: Commitee
+Category: Commitee 	
 
 ##Biography 
 
@@ -9,7 +9,7 @@ and the rector of [Université de Namur (UNamur)](http://unamur.be).
 
 Yves Poullet is the founder of [Centre de recherches informatique et droit (CRID)](http://www.crids.eu).
 
-Yves Poullet's webpage on the (Université de Namur)[http://directory.unamur.be/staff/ypoullet] contains~:
+Yves Poullet's webpage on the [Université de Namur](http://directory.unamur.be/staff/ypoullet) contains~:
 
 Director of CRIDS since its creation in 1979 until August 31, 2010, he conducted 
 various researches in the field of new technologies with a special emphasis 

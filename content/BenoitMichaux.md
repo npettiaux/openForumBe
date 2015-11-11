@@ -1,6 +1,6 @@
 Title: Benoît Michaux
 Date: 2015-10-01
-Category: Commitee; 2015
+Category: Commitee
 
 ##Biography 
 
