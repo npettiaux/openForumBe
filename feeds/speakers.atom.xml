@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openForum</title><link href="http://npettiaux.github.io/openForumBe/" rel="alternate"></link><link href="http://npettiaux.github.io/openForumBe/feeds/speakers.atom.xml" rel="self"></link><id>http://npettiaux.github.io/openForumBe/</id><updated>2015-10-11T00:00:00+02:00</updated><entry><title>Olivier Bonaventure</title><link href="http://npettiaux.github.io/openForumBe/olivier-bonaventure.html" rel="alternate"></link><updated>2015-10-11T00:00:00+02:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-10-11:openForumBe/olivier-bonaventure.html</id><summary type="html">&lt;h2&gt;Biography&lt;/h2&gt;
-&lt;p&gt;Olivier Bonvanture is full professor at the (École Polytechnique 
-de Louvain (EPL))[http://www.uclouvain.be/epl.html],
-(Université catholique de Louvain (UCL))[http://www.uclouvain.be]. &lt;/p&gt;
-&lt;p&gt;He is a 
-member of the ICTEAM research institute. His research activity is 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openForum</title><link href="http://npettiaux.github.io/openForumBe/" rel="alternate"></link><link href="http://npettiaux.github.io/openForumBe/feeds/speakers.atom.xml" rel="self"></link><id>http://npettiaux.github.io/openForumBe/</id><updated>2015-11-11T00:00:00+01:00</updated><entry><title>Olivier Bonaventure</title><link href="http://npettiaux.github.io/openForumBe/olivier-bonaventure.html" rel="alternate"></link><updated>2015-11-11T00:00:00+01:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-11-11:openForumBe/olivier-bonaventure.html</id><summary type="html">&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;p&gt;Olivier Bonaventure is full professor at the &lt;a href="http://www.uclouvain.be/epl.html"&gt;École Polytechnique 
+de Louvain (EPL)&lt;/a&gt;,
+&lt;a href="http://www.uclouvain.be"&gt;Université catholique de Louvain (UCL)&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;He is a member of the ICTEAM research institute. His research activity is 
 focussed on computer networks and Internet protocols. He and the 
 members of the IP  Networking Lab that he leads have received various
  awards at prestigious  networking conferences. He also serves 
@@ -24,7 +23,7 @@ implementation of the Open Education, but other digital technologies
 can also be offered.&lt;/p&gt;
 &lt;p&gt;The first part of the talk will present and discuss Open Education.&lt;/p&gt;
 &lt;p&gt;In the second part,  &lt;a href="http://npettiaux.github.io/openForumBe/olivier-bonaventure.html"&gt;Olivier Bonaventure&lt;/a&gt; will present his experience 
-with three open ebooks.  &lt;/p&gt;</summary></entry><entry><title>Yves Deville</title><link href="http://npettiaux.github.io/openForumBe/yves-deville.html" rel="alternate"></link><updated>2015-10-08T00:00:00+02:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-10-08:openForumBe/yves-deville.html</id><summary type="html">&lt;h2&gt;Biography&lt;/h2&gt;
+with three open ebooks.  &lt;/p&gt;</summary></entry><entry><title>Yves Deville</title><link href="http://npettiaux.github.io/openForumBe/yves-deville.html" rel="alternate"></link><updated>2015-11-11T00:00:00+01:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-11-11:openForumBe/yves-deville.html</id><summary type="html">&lt;h2&gt;Biography&lt;/h2&gt;
 &lt;p&gt;Yves Deville is full professor at the &lt;a href="http://www.uclouvain.be/epl.html"&gt;École Polytechnique 
 de Louvain (EPL)&lt;/a&gt;,
 &lt;a href="http://www.uclouvain.be"&gt;Université catholique de Louvain (UCL)&lt;/a&gt;.&lt;br /&gt;
