@@ -4,9 +4,9 @@ Category: Speakers
 
 ##Biography
 
-Yves Deville is full professor at the (École Polytechnique 
-de Louvain (EPL))[http://www.uclouvain.be/epl.html],
-(Université catholique de Louvain (UCL))[http://www.uclouvain.be].  
+Yves Deville is full professor at the [École Polytechnique 
+de Louvain (EPL)](http://www.uclouvain.be/epl.html),
+[Université catholique de Louvain (UCL)](http://www.uclouvain.be).  
 He is a member of the ICTEAM research institute and is 
 specialized in computer science.  His research are in artificial 
 intelligence, constraint satisfaction and optimization. He is 
@@ -33,6 +33,6 @@ can also be offered.
 
 The first part of the talk will present and discuss Open Education.
 
-In the second part,  (Olivier Bonaventure)[{filename}./OlivierBonaventure.md] will present his experience 
+In the second part, [Olivier Bonaventure]({filename}./OlivierBonaventure.md) will present his experience 
 with three open ebooks.  
 
