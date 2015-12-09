@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openForum</title><link href="http://npettiaux.github.io/openForumBe/" rel="alternate"></link><link href="http://npettiaux.github.io/openForumBe/feeds/program.atom.xml" rel="self"></link><id>http://npettiaux.github.io/openForumBe/</id><updated>2015-11-11T00:00:00+01:00</updated><entry><title>Program 2015-2106</title><link href="http://npettiaux.github.io/openForumBe/program-2015-2106.html" rel="alternate"></link><updated>2015-11-11T00:00:00+01:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-11-11:openForumBe/program-2015-2106.html</id><summary type="html">&lt;h2&gt;Thursday 12 November 2015&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openForum</title><link href="http://npettiaux.github.io/openForumBe/" rel="alternate"></link><link href="http://npettiaux.github.io/openForumBe/feeds/program.atom.xml" rel="self"></link><id>http://npettiaux.github.io/openForumBe/</id><updated>2015-12-07T00:00:00+01:00</updated><entry><title>Program 2015-2106</title><link href="http://npettiaux.github.io/openForumBe/program-2015-2106.html" rel="alternate"></link><updated>2015-12-07T00:00:00+01:00</updated><author><name>openForum</name></author><id>tag:npettiaux.github.io,2015-12-07:openForumBe/program-2015-2106.html</id><summary type="html">&lt;h2&gt;Thursday 10 December 2015&lt;/h2&gt;
 &lt;h3&gt;Title&lt;/h3&gt;
-&lt;p&gt;Open Education:  towards open digital learning resources
-&lt;a href="http://npettiaux.github.io/openForumBe/yves-deville.html"&gt;Yves Deville&lt;/a&gt; and &lt;a href="http://npettiaux.github.io/openForumBe/olivier-bonaventure.html"&gt;Olivier Bonaventure&lt;/a&gt;, 
-&lt;a href="http://uclouvain.be"&gt;Université catholique Louvain&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Open population data for human and animal health&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;by &lt;a href="http://npettiaux.github.io/openForumBe/marius-gilbert.html"&gt;Marius Gilbert&lt;/a&gt; and &lt;a href="http://npettiaux.github.io/openForumBe/catherine-linard.html"&gt;Catherine Linard&lt;/a&gt;
+(&lt;a href="http://ulb.ac.be"&gt;Lubies - Université libre de Bruxelles&lt;/a&gt;)&lt;/p&gt;
 &lt;h4&gt;Short abstract&lt;/h4&gt;
-&lt;p&gt;Open Education introduces, in the field of learning, an open approach 
-with collaboration and knowledge sharing.  In terms of content, 
-Open education proposes to promote the development and use of 
-open educational resources, that is learning materials in a digital 
-format freely distributed to educators, students or any individual 
-around the world. Digital opens the door to new types of educational 
-materials and facilitates dissemination. MOOCs are a possible 
-implementation of the Open Education, but other digital technologies 
-can also be offered.&lt;/p&gt;
-&lt;p&gt;In the first part of the talk, &lt;a href="http://npettiaux.github.io/openForumBe/yves-deville.html"&gt;Yves Deville&lt;/a&gt; 
-will present and discuss Open Education as considered at &lt;a href="http://uclouvain.be"&gt;Université catholique Louvain&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In the second part,  &lt;a href="http://npettiaux.github.io/openForumBe/olivier-bonaventure.html"&gt;Olivier Bonaventure&lt;/a&gt; will present his experience 
-with three open ebooks.  &lt;/p&gt;
-&lt;h2&gt;Thursday 10 December 2015&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Open population data for human and animal health&lt;/strong&gt; par 
-Marius Gilbert &amp;amp; Catherine Linard cteur en sciencLB)&lt;/p&gt;
-&lt;p&gt;Senior Research Associate FNRS (MR) and post-doctoral fellow at ULB &amp;amp;
-lecturer in geography at the University of Namur (CL)&lt;/p&gt;
+&lt;p&gt;High spatial resolution  data on the geographical distribution of 
+populations have countless uses ranging from epidemics modelling 
+to disaster management and environmental impact assessment. People 
+and livestock also have a profound impact on the environment, which 
+can be spatially informed thanks to high quality data on their 
+number and distribution. Since several years, two different 
+projects have aimed to collect, integrate and redistribute spatial 
+data on people and livestock at continental and global scale. The 
+Worldpop project initially aimed to process and disseminate human 
+population spatial data in developing countries at a 100m spatial 
+resolution, and has now expanded to distribute data on human movement 
+patterns. The gridded livestock of the world (GLW) project was 
+initiated by FAO and now covers six livestock species, at a global 
+extent, and a spatial resolution of 1 km per pixel. Since their origin, 
+both projects have adopted an Open data approach, and have been 
+extensively used in epidemiological,  environmental and socio-economic 
+applications. &lt;/p&gt;
 &lt;h2&gt;Thursday 14 January 2016&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Open Innovation, also in the banks&lt;/strong&gt; par David Dab, &lt;/p&gt;
 &lt;p&gt;PhD in Sciences (ULB), Innovation manager (ING), MIT fellow, former McKinsey Finance
@@ -55,4 +54,23 @@ initiator of the &lt;a href="http://osimis.io/"&gt;Osimis&lt;/a&gt; start-up.&lt
 docteur en informatique (&lt;a href="http://ulg.ac.be"&gt;ULG&lt;/a&gt;) et informaticien hospitalier au &lt;a href="http://www.chu.ulg.ac.be/internet/"&gt;CHU de Liège&lt;/a&gt;, 
 développeur du logiciel libre &lt;a href="http://www.orthanc-server.com/"&gt;Orthanc&lt;/a&gt;, 
 lauréat du &lt;a href="https://www.fsf.org/news/free-software-award-winners"&gt;prix pour l'avancement du logiciel libre 2014&lt;/a&gt; de la 
-&lt;a href="http://www.fsf.org"&gt;Fondation pour le logiciel libre&lt;/a&gt;, initiateur de la start-up  &lt;a href="http://osimis.io/"&gt;Osimis&lt;/a&gt;.&lt;/p&gt;</summary></entry></feed>
+&lt;a href="http://www.fsf.org"&gt;Fondation pour le logiciel libre&lt;/a&gt;, initiateur de la start-up  &lt;a href="http://osimis.io/"&gt;Osimis&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Thursday 12 November 2015&lt;/h2&gt;
+&lt;h3&gt;Title&lt;/h3&gt;
+&lt;p&gt;Open Education:  towards open digital learning resources
+&lt;a href="http://npettiaux.github.io/openForumBe/yves-deville.html"&gt;Yves Deville&lt;/a&gt; and &lt;a href="http://npettiaux.github.io/openForumBe/olivier-bonaventure.html"&gt;Olivier Bonaventure&lt;/a&gt;, 
+&lt;a href="http://uclouvain.be"&gt;Université catholique Louvain&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Short abstract&lt;/h4&gt;
+&lt;p&gt;Open Education introduces, in the field of learning, an open approach 
+with collaboration and knowledge sharing.  In terms of content, 
+Open education proposes to promote the development and use of 
+open educational resources, that is learning materials in a digital 
+format freely distributed to educators, students or any individual 
+around the world. Digital opens the door to new types of educational 
+materials and facilitates dissemination. MOOCs are a possible 
+implementation of the Open Education, but other digital technologies 
+can also be offered.&lt;/p&gt;
+&lt;p&gt;In the first part of the talk, &lt;a href="http://npettiaux.github.io/openForumBe/yves-deville.html"&gt;Yves Deville&lt;/a&gt; 
+will present and discuss Open Education as considered at &lt;a href="http://uclouvain.be"&gt;Université catholique Louvain&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In the second part,  &lt;a href="http://npettiaux.github.io/openForumBe/olivier-bonaventure.html"&gt;Olivier Bonaventure&lt;/a&gt; will present his experience 
+with three open ebooks.  &lt;/p&gt;</summary></entry></feed>
