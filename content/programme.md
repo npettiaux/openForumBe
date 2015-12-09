@@ -7,10 +7,10 @@ Wallonie-Bruxelles](http://www.federation-wallonie-bruxelles.be/)
 
 
 The poster of the OpenForum that everyone is welcome to spread is 
-available <{filename}./OpenForum.be_20152016_A3_affiche_avec_logos.pdf>	
+available <{filename}/OpenForum.be_20152016_A3_affiche_avec_logos.pdf>	
 
 Source of the 
-poster <{filename}./OpenForum.be_20152016_A3_affiche_avec_logos.odt>
+poster <{filename}/OpenForum.be_20152016_A3_affiche_avec_logos.odt>
 
 ##	Thursday 10 December 2015
 
